@@ -1,0 +1,20 @@
+15:32:15-Sep-07-2022, ETL JOB STARTED:
+15:32:15-Sep-07-2022, Extract Phase Started
+15:32:15-Sep-07-2022, Extract Phase is Ended
+15:32:15-Sep-07-2022, Transformation Phase is Started
+15:43:38-Sep-07-2022, ETL JOB STARTED:
+15:43:38-Sep-07-2022, Extract Phase Started
+15:43:38-Sep-07-2022, Extract Phase is Ended
+15:43:38-Sep-07-2022, Transformation Phase is Started
+15:47:32-Sep-07-2022, ETL JOB STARTED:
+15:47:32-Sep-07-2022, Extract Phase Started
+15:47:32-Sep-07-2022, Extract Phase is Ended
+15:47:32-Sep-07-2022, Transformation Phase is Started
+15:48:02-Sep-07-2022, ETL JOB STARTED:
+15:48:02-Sep-07-2022, Extract Phase Started
+15:48:02-Sep-07-2022, Extract Phase is Ended
+15:48:02-Sep-07-2022, Transformation Phase is Started
+15:48:02-Sep-07-2022, Transformation Phase is Ended
+15:48:02-Sep-07-2022, Loading Phase is Started
+15:48:02-Sep-07-2022, Loading Phase is Ended
+15:48:02-Sep-07-2022, ETL JOB IS ENDED
